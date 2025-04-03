@@ -91,6 +91,9 @@
         <None Update="108.png">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
+        <None Update="images\hengshan.tif">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
         <None Update="images\108.png">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
